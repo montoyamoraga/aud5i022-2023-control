@@ -9,3 +9,7 @@
 - código
 - imágenes
 - conclusiones
+
+inspiracion: proyecto de estudiante del semestre pasado
+
+* https://github.com/jibbx/AV-ERDDEL
