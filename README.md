@@ -1,10 +1,10 @@
 # Arpegiador de 3 voces
 por Amanda Iriarte y Andrés Martin
 
-## pauta
+## puntos
 
-- punto base
-- asistencia
+### punto base :white_check_mark:
+### asistencia :white_check_mark:
 
 ### materiales
 
