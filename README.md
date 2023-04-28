@@ -4,8 +4,11 @@
 
 - punto base
 - asistencia
-- materiales
-- circuito
+### materiales
+
+- Arduino UNO[R3]
+
+### circuito
 - código
 - imágenes
 - conclusiones
