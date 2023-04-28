@@ -87,16 +87,10 @@ void loop() {
 ### imágenes
 
 ![alt](img/01.png "foto wonita")
-![alt](img/03.jpg "foto WIP")
-![alt](img/04.jpg "foto cenital")
+![alt](img/04.jpg "foto WIP")
+![alt](img/03.jpg "foto cenital")
 ![alt](img/02.jpg "foto prototipo anterior")
 
 ### conclusiones
 
 
-
-inspiracion: proyecto de estudiante del semestre pasado
-
-* https://github.com/jibbx/AV-ERDDEL
-
-![alt](foto.jpg "foto en clases")
