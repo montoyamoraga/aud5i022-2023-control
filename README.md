@@ -24,7 +24,7 @@
 
 ### código
 
-'''ino
+```ino
 
 // arpegiador canon
 
@@ -80,7 +80,7 @@ void loop() {
 
 
 }
-'''
+```
 
 
 ### imágenes
