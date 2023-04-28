@@ -91,6 +91,8 @@ void loop() {
 ![alt](img/03.jpg "foto cenital")
 ![alt](img/02.jpg "foto prototipo anterior")
 
+https://drive.google.com/drive/folders/1WJYNFAVH-x-zZ0c-H1NB4GtK6NJCwPUz
+
 ### conclusiones
 
 Al principio queriamos hacer que los 3 buzzer sonaran al mismo tiempo, pero nos dimos cuenta de que usando el tone() no se pueden hacer varios tonos a la vez. Aún así pudimos hacer que se reproduzca en forma de arpegio.
