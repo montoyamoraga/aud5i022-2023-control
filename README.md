@@ -32,7 +32,7 @@
 
 ### conclusiones
 
-![alt](foto.jpg "foto en clases")
+![alt](img/foto.jpg "foto en clases")
 
 
 inspiracion: proyecto de estudiante del semestre pasado
