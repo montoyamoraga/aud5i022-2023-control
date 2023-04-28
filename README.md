@@ -1,4 +1,5 @@
-# aud5i022-2023-control
+# Arpegiador de 3 voces
+por Amanda Iriarte y Andrés Martin
 
 ## pauta
 
