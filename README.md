@@ -7,6 +7,10 @@
 ### materiales
 
 - Arduino UNO[R3]
+- 3 Buzzer
+- 3 LEDs
+- 3 Resistores (220 Ω)
+- Potenciometro (10K Ω)
 
 ### circuito
 - código
