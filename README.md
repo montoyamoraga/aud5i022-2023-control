@@ -7,10 +7,15 @@
 ### materiales
 
 - Arduino UNO[R3]
+- Protoboard 60 filas
 - 3 Buzzer
 - 3 LEDs
 - 3 Resistores (220 Ω)
 - Potenciometro (10K Ω)
+- 2 Switch
+- Boton pulsador
+- Muchos cables dupont (16)
+- Cable USB
 
 ### circuito
 - código
