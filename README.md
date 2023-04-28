@@ -21,7 +21,7 @@ por Amanda Iriarte y Andrés Martin
 
 ### circuito
 
-
+El potenciometro va conectado a una entrada análoga (A0, además de a 5V y GND) para regular la frecuencia desde el código. Hay 3 'modulos' de audio compuestos por un resistor, un LED, un interruptor (uno pulsador y 2 switch) y un buzzer (en ese orden), cada uno de estos módulos está conectado a una salida digital al principio y a GND al final.
 
 ### código
 
@@ -86,11 +86,13 @@ void loop() {
 
 ### imágenes
 
-
+![alt](img/foto.jpg "foto en clases")
+![alt](img/foto.jpg "foto en clases")
+![alt](img/foto.jpg "foto en clases")
+![alt](img/foto.jpg "foto en clases")
 
 ### conclusiones
 
-![alt](img/foto.jpg "foto en clases")
 
 
 inspiracion: proyecto de estudiante del semestre pasado
