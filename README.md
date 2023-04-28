@@ -86,10 +86,10 @@ void loop() {
 
 ### imágenes
 
-![alt](img/foto.jpg "foto en clases")
-![alt](img/foto.jpg "foto en clases")
-![alt](img/foto.jpg "foto en clases")
-![alt](img/foto.jpg "foto en clases")
+![alt](img/01.png "foto wonita")
+![alt](img/03.jpg "foto WIP")
+![alt](img/04.jpg "foto cenital")
+![alt](img/02.jpg "foto prototipo anterior")
 
 ### conclusiones
 
