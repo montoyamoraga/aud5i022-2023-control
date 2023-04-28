@@ -4,6 +4,7 @@
 
 - punto base
 - asistencia
+
 ### materiales
 
 - Arduino UNO[R3]
@@ -18,9 +19,21 @@
 - Cable USB
 
 ### circuito
-- código
-- imágenes
-- conclusiones
+
+
+
+### código
+
+
+
+### imágenes
+
+
+
+### conclusiones
+
+![alt](foto.jpg "foto en clases")
+
 
 inspiracion: proyecto de estudiante del semestre pasado
 
