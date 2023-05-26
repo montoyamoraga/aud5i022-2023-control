@@ -1,9 +1,11 @@
 # Arpegiador de 3 voces
+
 por Amanda Iriarte y Andrés Martin
 
 ## puntos
 
 ### punto base :white_check_mark:
+
 ### asistencia :white_check_mark:
 
 ### materiales
@@ -82,7 +84,6 @@ void loop() {
 }
 
 ```
-
 
 ### imágenes
 
